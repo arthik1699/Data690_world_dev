@@ -118,14 +118,17 @@ From the figure we can observe that the India ranks first regarding to the fores
 
 
 
-
-
 - **Carbondioxide damage**
 
 
 More people means more demand for oil, gas, coal and other fuels mined or drilled from below the Earth’s surface that, when burned, spew enough carbon dioxide (CO2) into the atmosphere to trap warm air inside like a greenhouse. According to the United Nations Population Fund, human population grew from 1.6 billion to 6.1 billion people during the course of the 20th century. (Think about it: It took all of time for population to reach 1.6 billion; then it shot to 6.1 billion over just 100 years.) During that time emissions of CO2, the leading greenhouse gas, grew 12-fold. And with worldwide population expected to surpass nine billion over the next 50 years, environmentalists and others are worried about the ability of the planet to withstand the added load of greenhouse gases entering the atmosphere and wreaking havoc on ecosystems down below.
 
 Developed countries consume the lion’s share of fossil fuels. The United States, for example, contains just five percent of world population, yet contributes a quarter of total CO2 output. But while population growth is stagnant or dropping in most developed countries (except for the U.S., due to immigration), it is rising rapidly in quickly industrializing developing nations. According to the United Nations Population Fund, fast-growing developing countries (like China and India) will contribute more than half of global CO2 emissions by 2050, leading some to wonder if all of the efforts being made to curb U.S. emissions will be erased by other countries’ adoption of our long held over-consumptive ways.
+
+
+![](7.png)
+
+
 
 
 
