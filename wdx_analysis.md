@@ -69,6 +69,15 @@ Population growth should lead to a continuation of global GDP growth, but the im
 
 The above chart depicits the GDP per capita of various countries in the year 2016.
 
+![](2.png)
+
+The above chart depicits the GDP per capita of various counytries in the year 2020.
+
+By obeserving the above two charts we can say that the growth of GDP per capita is increasing at a constant pace from the year 2016 to 2020.
+
+
+
+
 
 
 
