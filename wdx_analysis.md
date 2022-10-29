@@ -50,5 +50,5 @@ This report has analyzed the impact of population growth on the environment by c
 7. Australia
 
 - **The timeperiod included in the analysis is**
-   2016-2020
+2016-2020
 
