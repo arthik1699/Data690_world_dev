@@ -95,7 +95,7 @@ We can observe that the China and United States have more mineral depletion than
 When energy is scarce or expensive, people can suffer material deprivation and economic hardship. When it is obtained in ways that fail to minimize environmental and political costs, these too can threaten human wellbeing in fundamental and pervasive ways. The energy problem today combines these syndromes: much of the world's population has too little energy to meet basic human needs; the monetary costs of energy are rising nearly everywhere; the environmental impacts of energy supply are growing and already dominant contributors to local, regional, and global environmental problems (including air pollution, water pollution, ocean pollution, and climate change); and the sociopolitical risks of energy supply (above all the danger of conflict over oil and the links between nuclear energy and nuclear weapons) are growing too. This predicament has many causes, but predominant among them are the nearly 20-fold increase in world energy use since 1850 and the cumulative depletion of the most convenient oil and gas deposits that this growth has entailed, resulting in increasing resort to costlier and/or environmentally more disruptive energy sources.
 
 
-
+![](5.png)
 
 The above chart depicits the energy depletion of various countries in the year 2018.
 From the figure we can observe that the Japan has minimal percentage of energy depletion when compared to other countries.
