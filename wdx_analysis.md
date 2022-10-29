@@ -129,6 +129,10 @@ Developed countries consume the lion’s share of fossil fuels. The United State
 ![](7.png)
 
 
+The above figure depicits the carbon dioxide damage of various countries over the period 2016 to 2020.
+
+
+
 
 
 
