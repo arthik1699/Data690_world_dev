@@ -64,7 +64,12 @@ According to the New York Times, the United Nations announced that countries mig
 ### **Impact Of Population Growth on GDP per capita**
 
 Population growth should lead to a continuation of global GDP growth, but the impact may be modest because growth in the working-age population is concentrated in countries with low labor productivity. The shape of the economic life cycle, with high consumption and low labor supply at older ages, will heighten the global economic costs of population aging. Current spending patterns suggest that the high costs will be absorbed by prime-age adults rather than children or the elderly. Many pressing environmental, health, and economic issues, some of which are considered here, are global in nature and inextricably linked to population. Understanding the connections is essential.
+
 ![](1.png)
+
+The above chart depicits the GDP per capita of various countries in the year 2016.
+
+
 
 
 
