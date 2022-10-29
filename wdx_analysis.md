@@ -109,6 +109,11 @@ Being the heart and lungs of the world, forests act as barometers of the economy
 
 
 
+![](6.png)
+
+
+The above figure depicits the forest area depletio of various countries in the year 2016.
+From the figure we can observe that the India ranks first regarding to the forest area depletion than other countries. Due to the overpopulation in India more number of people are using the forest lands for vaious uses and hence depleting ths forest land.
 
 
 
