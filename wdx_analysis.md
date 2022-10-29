@@ -3,7 +3,7 @@
 - Name - Arthi Komma
 - Campus id - GF89659
 
-## ** Project Part A**
+## **Project Part A**
 
-## ** POPULATION GROWTH AND ITS IMPACT ON THE ENVIRONMENT**
+## **POPULATION GROWTH AND ITS IMPACT ON THE ENVIRONMENT**
 
