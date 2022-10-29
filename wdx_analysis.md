@@ -105,6 +105,12 @@ From the figure we can observe that the Japan has minimal percentage of energy d
 - **Forest Area Depletion**
 
 
+Being the heart and lungs of the world, forests act as barometers of the economy and environment (Kumar, 2001). The major factors contributing to deforestation are poverty, low level of income and population growth Debel et al.(2014). Since the dawn of human history, the destiny of humans and trees has remained tightly bound. Forests have exerted a tremendous influence on livelihood and economic development in many societies. One of the most important concerns of this age is the question of population growth and whether the earth’s resources can sustain this rapid expansion of population in most parts of the world. Forest clearing for agricultural encroachment and other land use systems affecting the natural forest of zaba kebele which is at its peak required an immediate management intervention in the area. Not only that many loads of fuel wood are deported and many quintals of charcoal are extracted daily. Ethiopia’s forests are being destroyed at an alarming rate and the area covered by forests at present is only 2.4% compared to the estimated 40% initial coverage. The primary causes of natural forest destruction are agricultural expansion and the demand for increasing amounts of construction materials, fuel wood and charcoal Million(2001).
+
+
+
+
+
 
 
 
