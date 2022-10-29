@@ -51,3 +51,20 @@ This report has analyzed the impact of population growth on the environment by c
 
 - **The timeperiod included in the analysis is** 2016-2020
 
+
+### **What is Population growth?**
+
+Population growth is the increase in the number of people in a population or dispersed group. Global human population growth amounts to around 83 million annually, or 1.1% per year.The global population has grown from 1 billion in 1800 to 7.9 billion in 2020.
+
+Over the last decade, global awareness of the human-nature relationship has grown, raising questions on the idea of economic prosperity at the expense of the environment. More individuals are questioning overpopulation which is also the result of climate change, increased carbon emissions, and biodiversity loss.
+
+Economic growth is important as well as environmental safety since this is our planet and we have to be cautious to make it suitable to live in.
+According to the New York Times, the United Nations announced that countries might either have "plans to reach net-zero CO2 emissions by 2050" or "a long-term national target." Others can pursue "a long-term strategy for climate-neutrality in accordance with the Paris Agreement," a 2015 worldwide agreement aimed at mitigating the worst effects of climate change.
+
+### **Impact Of Population Growth on GDP per capita**
+
+Population growth should lead to a continuation of global GDP growth, but the impact may be modest because growth in the working-age population is concentrated in countries with low labor productivity. The shape of the economic life cycle, with high consumption and low labor supply at older ages, will heighten the global economic costs of population aging. Current spending patterns suggest that the high costs will be absorbed by prime-age adults rather than children or the elderly. Many pressing environmental, health, and economic issues, some of which are considered here, are global in nature and inextricably linked to population. Understanding the connections is essential.
+
+
+
+
