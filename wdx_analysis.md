@@ -125,11 +125,12 @@ More people means more demand for oil, gas, coal and other fuels mined or drille
 
 Developed countries consume the lion’s share of fossil fuels. The United States, for example, contains just five percent of world population, yet contributes a quarter of total CO2 output. But while population growth is stagnant or dropping in most developed countries (except for the U.S., due to immigration), it is rising rapidly in quickly industrializing developing nations. According to the United Nations Population Fund, fast-growing developing countries (like China and India) will contribute more than half of global CO2 emissions by 2050, leading some to wonder if all of the efforts being made to curb U.S. emissions will be erased by other countries’ adoption of our long held over-consumptive ways.
 
+![](8.png)
+
+![](9.png)
 
 
-
-
-The above figure depicits the carbon dioxide damage of various countries over the period 2016 to 2020.
+The above figure depicits the carbon dioxide damage of various countries in the year 2016 and 2020
 
 
 
