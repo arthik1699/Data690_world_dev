@@ -96,6 +96,7 @@ When energy is scarce or expensive, people can suffer material deprivation and e
 
 ![](4.png)
 
+
 The above chart depicits the energy depletion of various countries in the year 2018.
 From the figure we can observe that the Japan has minimal percentage of energy depletion when compared to other countries.
 
