@@ -75,6 +75,36 @@ The above chart depicits the GDP per capita of various counytries in the year 20
 
 By obeserving the above two charts we can say that the growth of GDP per capita is increasing at a constant pace from the year 2016 to 2020.
 
+### **Negative impacts of Population Growth**
+- **Mineral Depletion**
+
+The total global population is more than seven billion people. Still, there is a consistent increase in the overall earth populace and this has been a critical factor in accelerating the depletion of natural resources. An increase in the populace expands the need for resources and conditions necessary to sustain it.
+Even if everyone tried to adopt a correspondingly low material standard of living, with the population approaching eight billion, it would still cause the depletion of natural resources.
+In addition, it contributes to increased ecological contamination. Research further indicates that developing countries are using more and more resources to industrialize and support their ever-increasing population. Hence, the depletion of natural resources will continue as long as the world population increases.
+
+
+
+
+
+
+
+- **Energy Depletion**
+
+
+
+
+
+
+
+- **Forest Area Depletion**
+
+
+
+
+
+
+- **Carbondioxide damage**
+
 
 
 
