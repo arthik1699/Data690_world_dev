@@ -137,12 +137,13 @@ From the figures we can observe that the carbon dioxide damage has a slight incr
 
 ### **Conclusion**
 
-
-
+From the analysis we can observe that with the increase in population over various countries has resulted in the depletion of renewable and non-renewable resources over a period of time. There would be no shock if these resources gets extinct by a century and the people belonging to various countries might face severe consequences in the mere future. The governments of all the countries in the world should find a way to control the overpopulation and make the resouces not to extinct.
 
 
 ### **References**
-- Wang, C. (2021). The world development explorer. Available from http﻿://www.worlddev.xyz
+- Wang, C. (2021). The world development explorer. Available from http://www.worlddev.xyz
+- https://storymaps.arcgis.com/stories/fc9006cfdb29418983264a6d23906940
+- https://www.conserve-energy-future.com/causes-effects-solutions-depletion-natural-resources.php
 
 
 
